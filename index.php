@@ -36,6 +36,16 @@
         ?>
     </div>
 
+    <div class="item">
+        <?php
+            echo '<pre>';    
+
+            $numeros = [10, 20, 30];
+
+            print_r($numeros);
+        ?>
+    </div>
+
 </div>
 
 </body>
