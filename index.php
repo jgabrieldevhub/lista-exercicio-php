@@ -22,6 +22,20 @@
         ?>
     </div>
 
+    <div class="item">
+        <?php
+            $escola = 'Senac Americana';
+
+            //adicionando uma variavel;
+
+            echo $escola;
+
+            /* 
+                comando echo em conjunto com a variavel para imprimir a a variavel na tela;
+            */
+        ?>
+    </div>
+
 </div>
 
 </body>
