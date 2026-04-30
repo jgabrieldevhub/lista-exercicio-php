@@ -54,6 +54,14 @@
         ?>
     </div>
 
+    <div class="item">
+        <?php
+            const pi = 3.14;
+
+            var_dump(pi);
+        ?>
+    </div>
+
 </div>
 
 </body>
