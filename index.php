@@ -46,6 +46,14 @@
         ?>
     </div>
 
+    <div class="item">
+        <?php
+            $frutas = ['Maçã', 'Banana', 'Laranja'];
+
+            echo $frutas[1];
+        ?>
+    </div>
+
 </div>
 
 </body>
